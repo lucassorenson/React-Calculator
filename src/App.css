@@ -1,22 +1,50 @@
-.App {
-  text-align: center;
+body{
+  background-image: url("./table.jpg");
+  background-size: cover;
+}
+#calculatorWrapper{
+  background-color: #080a2e;
+  width: 28vw;
+  margin: 0 auto;
+  border-radius: 15px;
+  height: 90vh;
+  padding: 1%
 }
 
-.App-logo {
-  height: 40vmin;
+#display{
+  text-align: right;
+  width: 98%;
+  margin: 1% auto;
+  background-color: #bbdddd;
+  border-radius: 15px;
+  height: 20%;
+
+  font-size: 5rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+#buttonsWrapper{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-wrap: wrap;
+  height: 80%;
+  width: 99%;
+  margin: auto;
+  vertical-align: middle;
 }
 
-.App-link {
-  color: #09d3ac;
+.btn{
+  width: calc(23%);
+  height: calc(87% / 5);
+  font-size: 50px;
+  margin: 1%;
+  background-color: #bbdddd;
+  border-radius: 15px;
+}
+
+.btn:focus{
+  outline: none;
+  background-color: red;
+}
+
+#clear{
+  width: 100%;
 }
