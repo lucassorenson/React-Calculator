@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/lucassorenson/React-Calculator.git/static/css/main.5ffd8c75.chunk.css",
-    "main.js": "/lucassorenson/React-Calculator.git/static/js/main.e150fa5d.chunk.js",
-    "main.js.map": "/lucassorenson/React-Calculator.git/static/js/main.e150fa5d.chunk.js.map",
-    "runtime-main.js": "/lucassorenson/React-Calculator.git/static/js/runtime-main.90eecb7d.js",
-    "runtime-main.js.map": "/lucassorenson/React-Calculator.git/static/js/runtime-main.90eecb7d.js.map",
-    "static/js/2.3fbcc271.chunk.js": "/lucassorenson/React-Calculator.git/static/js/2.3fbcc271.chunk.js",
-    "static/js/2.3fbcc271.chunk.js.map": "/lucassorenson/React-Calculator.git/static/js/2.3fbcc271.chunk.js.map",
-    "index.html": "/lucassorenson/React-Calculator.git/index.html",
-    "precache-manifest.ed6d322756b97a86b2f8c50577a0b47a.js": "/lucassorenson/React-Calculator.git/precache-manifest.ed6d322756b97a86b2f8c50577a0b47a.js",
-    "service-worker.js": "/lucassorenson/React-Calculator.git/service-worker.js",
-    "static/css/main.5ffd8c75.chunk.css.map": "/lucassorenson/React-Calculator.git/static/css/main.5ffd8c75.chunk.css.map",
-    "static/media/App.css": "/lucassorenson/React-Calculator.git/static/media/table.1bd1a6bf.jpg"
+    "main.css": "/lucassorenson/React-Calculator/static/css/main.c5155b40.chunk.css",
+    "main.js": "/lucassorenson/React-Calculator/static/js/main.e150fa5d.chunk.js",
+    "main.js.map": "/lucassorenson/React-Calculator/static/js/main.e150fa5d.chunk.js.map",
+    "runtime-main.js": "/lucassorenson/React-Calculator/static/js/runtime-main.06ef3a92.js",
+    "runtime-main.js.map": "/lucassorenson/React-Calculator/static/js/runtime-main.06ef3a92.js.map",
+    "static/js/2.3fbcc271.chunk.js": "/lucassorenson/React-Calculator/static/js/2.3fbcc271.chunk.js",
+    "static/js/2.3fbcc271.chunk.js.map": "/lucassorenson/React-Calculator/static/js/2.3fbcc271.chunk.js.map",
+    "index.html": "/lucassorenson/React-Calculator/index.html",
+    "precache-manifest.69a5115bf2cc3b21a6bbd826f5a6639a.js": "/lucassorenson/React-Calculator/precache-manifest.69a5115bf2cc3b21a6bbd826f5a6639a.js",
+    "service-worker.js": "/lucassorenson/React-Calculator/service-worker.js",
+    "static/css/main.c5155b40.chunk.css.map": "/lucassorenson/React-Calculator/static/css/main.c5155b40.chunk.css.map",
+    "static/media/App.css": "/lucassorenson/React-Calculator/static/media/table.1bd1a6bf.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.90eecb7d.js",
+    "static/js/runtime-main.06ef3a92.js",
     "static/js/2.3fbcc271.chunk.js",
-    "static/css/main.5ffd8c75.chunk.css",
+    "static/css/main.c5155b40.chunk.css",
     "static/js/main.e150fa5d.chunk.js"
   ]
 }
